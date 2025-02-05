@@ -26,8 +26,12 @@ I am a developer with two years of experience. I started by creating simple Tele
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sashaBazarov"><img src="https://github-readme-stats.vercel.app/api?username=sashaBazarov&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="sashaBazarov's GitHub stats" /></a>
+<a href="http://www.github.com/sashaBazarov">
+<img src="https://github-readme-stats.vercel.app/api?username=sashaBazarov&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="sashaBazarov's GitHub stats" />
+</a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/sashaBazarov/Ponyscript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sashaBazarov&repo=Ponyscript&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sashaBazarov/Bronybot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sashaBazarov&repo=Bronybot&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/sashaBazarov/Ponyscript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sashaBazarov&repo=Ponyscript&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/sashaBazarov/Bronybot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sashaBazarov&repo=Bronybot&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
