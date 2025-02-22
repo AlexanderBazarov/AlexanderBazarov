@@ -7,7 +7,7 @@ Python/C# backend developer
 I am a developer with two years of experience. I started by creating simple Telegram bots and working with APIs, developing KDZHW. Then, I tried making games on Unreal Engine, created my own programming language, and eventually launched BronyMatch – a dating bot for the MLP community. Now, I continue working on various projects, experimenting with technologies, and finding unconventional solutions.
 
 * 🌍  I'm based in Novosibirsk
-* ✉️  You can contact me at [ccarter388play@gmail.com](mailto:ccarter388play@gmail.com)
+* ✉️  You can contact me at [ccarter388play@gmail.com](mailto:avbazarov2006@mail.ru)
 * 🧠  I'm learning Unity/ASP.NET
 
 ### Skills
