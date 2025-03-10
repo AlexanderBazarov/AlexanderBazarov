@@ -26,7 +26,7 @@ I am a developer with two years of experience. I started by creating simple Tele
 
 <b>My GitHub Stats</b>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sashaBazarov&theme=dark&type=png" alt="GitHub Streak" /></a>
+<a href="http://www.github.com/sashaBazarov"><img src="https://github-readme-stats.vercel.app/api?username=sashaBazarov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&show_icons=true" alt="sashaBazarov's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
