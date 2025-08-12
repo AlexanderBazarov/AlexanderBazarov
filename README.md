@@ -32,4 +32,6 @@ I am a developer with three years of experience. I started by creating simple Te
 
 <div width="100%" align="center"><a href="https://github.com/AlexanderBazarov/Ponyscript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderBazarov&repo=Ponyscript&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&locale=en" />
 </a>
-<a href="https://github.com/AlexanderBazarov/Bronybot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderBazarov&repo=Bronybot&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/AlexanderBazarov/Bronybot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderBazarov&repo=Bronybot&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&locale=en" /></a></div><br />
+<a href="https://github.com/AlexanderBazarov/Bronybot-java" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderBazarov&repo=Bronybot-java&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&locale=en" /></a></div><br />
+<br /><br /><br /><br /><br /><br />
